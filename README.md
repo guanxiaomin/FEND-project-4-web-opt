@@ -12,6 +12,7 @@ Modify index.html to get PageSpeed score 90 or higher.
 * Add Cache Control as public.
 * Add `media` to the print css.
 * Move google font to the bottom.
+* Compress images.
 
 
 
